@@ -32,6 +32,13 @@ through primary and foreign key relationships.
 
 ## Analysis
 
+## Entity Relationship Diagram
+
+The database contains 15 related tables connected through
+primary and foreign keys.
+
+![Gravity Books ERD](diagrams/gravity_books_erd.png)
+
 ### 1. Language Demand
 
 The analysis identifies languages with the lowest order volume.
